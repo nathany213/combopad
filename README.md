@@ -10,11 +10,14 @@ So basically, this is a 3x3 macropad, except it has a unique function: you can e
 # PCB (KiCad)
 ## Schematics design:
 <img width="335" height="226" alt="image" src="https://github.com/user-attachments/assets/c3829459-ce2d-45a3-8f57-b3552adacf85" />
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/cd61e5cb-fb4f-4837-a522-01388884d329" />
-<img width="509" height="488" alt="image" src="https://github.com/user-attachments/assets/397eb15f-7550-4d02-8d77-97c7bc77bc06" />
+
 
 ## PCB design:
-<img width="343" height="407" alt="image" src="https://github.com/user-attachments/assets/4223bb12-3bf1-4a47-b486-3375a2861c49" />
+<img width="359" height="395" alt="image" src="https://github.com/user-attachments/assets/95b10a84-1f1e-4527-a637-d7c56c00445b" />
+<img width="390" height="449" alt="image" src="https://github.com/user-attachments/assets/6014e17b-b2af-4092-915e-5062d7bfbcb8" />
+<img width="428" height="469" alt="image" src="https://github.com/user-attachments/assets/844c4d86-e0fc-4f01-9df0-46fe58a0a792" />
+
+
 
 ## CAD (Onshape)
 the casing is split into three pieces: 
